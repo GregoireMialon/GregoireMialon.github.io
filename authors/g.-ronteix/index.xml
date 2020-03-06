@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Ronteix | Grégoire Mialon</title>
+    <link>https://GregoireMialon.github.io/authors/g.-ronteix/</link>
+      <atom:link href="https://GregoireMialon.github.io/authors/g.-ronteix/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Ronteix</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2019 20:03:11 +0100</lastBuildDate>
+    <image>
+      <url>https://GregoireMialon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Ronteix</title>
+      <link>https://GregoireMialon.github.io/authors/g.-ronteix/</link>
+    </image>
+    
+    <item>
+      <title>Le prix Turing 2019 souligne le retard de l’Europe dans le numérique.</title>
+      <link>https://GregoireMialon.github.io/post/turing-prize/</link>
+      <pubDate>Sun, 14 Apr 2019 20:03:11 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/post/turing-prize/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
