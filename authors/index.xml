@@ -5,7 +5,7 @@
     <link>https://GregoireMialon.github.io/authors/</link>
       <atom:link href="https://GregoireMialon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 11:09:52 +0200</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>A. d&#39;Aspremont</title>
       <link>https://GregoireMialon.github.io/authors/a.-daspremont/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
       <guid>https://GregoireMialon.github.io/authors/a.-daspremont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Chen</title>
+      <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Mialon</title>
       <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
       <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>J. Mairal</title>
       <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
       <guid>https://GregoireMialon.github.io/authors/j.-mairal/</guid>
       <description></description>
     </item>
@@ -49,14 +57,6 @@
       <link>https://GregoireMialon.github.io/authors/a.-bietti/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://GregoireMialon.github.io/authors/a.-bietti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Chen</title>
-      <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
       <description></description>
     </item>
     
