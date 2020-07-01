@@ -85,5 +85,25 @@
 </description>
     </item>
     
+    <item>
+      <title>News</title>
+      <link>https://GregoireMialon.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[07/01/20]&lt;/strong&gt; Our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/screening/&#34;&gt;Screening Data Points in Empirical Risk Minimization&lt;/a&gt; was accepted to AISTATS 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[17/12/19]&lt;/strong&gt; I was involved in a french study on &lt;a href=&#34;http://www.athling.com/portfolio/17-decembre-2019-rapport-athling-sur-lintelligence-artificielle-dans-le-commerce/&#34;&gt;the consequences of automation in commerce and distribution&lt;/a&gt;, commissioned by the Prospective Observatory for Trade.&lt;/p&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
