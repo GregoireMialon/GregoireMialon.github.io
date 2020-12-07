@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We introduce a kernel for sets of features based on an optimal transport distance, along with an explicit embedding function. Our approach addresses the problem of feature aggregation, or pooling, for sets that exhibit long-range dependencies between their members. More precisely, our embedding aggregates the features of a given set according to the transport plan between the set and a reference shared across the data set. Unlike traditional hand-crafted kernels, our embedding can be optimized for a specific task or data set. It also has a natural connection to attention mechanisms in neural networks, which are commonly used to deal with sets, yet requires less data. Our embedding is particularly suited for biological sequence classification tasks and shows promising results for natural language sequences. We provide an implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK.">
+  <meta name="description" content="We address the problem of learning on large sets of features, motivated by the need of performing pooling operations in long biological sequences of varying sizes, with long-range dependencies, and possibly few labeled data. To address this challenging task, we introduce a parametrized embedding that aggregates the features from a given set according to the optimal transport plan between the set and a trainable reference. Our approach scales to large datasets and allows end-to-end training of the reference, while also providing a simple unsupervised learning mechanism with small computational cost. Our aggregation technique admits two useful interpretations: it may be seen as a mechanism related to attention layers in neural networks, yet that requires less data, or it may be seen as a scalable surrogate of a classical optimal transport-based kernel. We experimentally demonstrate the effectiveness of our approach on biological sequences, achieving state-of-the-art results for protein fold recognition and detection of chromatin profiles tasks, and, as a proof of concept, we show promising results for processing natural language sequences. We provide an open-source implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://GregoireMialon.github.io/publication/tkn/">
@@ -233,8 +233,8 @@
   
   <meta property="og:site_name" content="Grégoire Mialon">
   <meta property="og:url" content="https://GregoireMialon.github.io/publication/tkn/">
-  <meta property="og:title" content="An Optimal Transport Kernel for Feature Aggregation and its Relationship to Attention | Grégoire Mialon">
-  <meta property="og:description" content="We introduce a kernel for sets of features based on an optimal transport distance, along with an explicit embedding function. Our approach addresses the problem of feature aggregation, or pooling, for sets that exhibit long-range dependencies between their members. More precisely, our embedding aggregates the features of a given set according to the transport plan between the set and a reference shared across the data set. Unlike traditional hand-crafted kernels, our embedding can be optimized for a specific task or data set. It also has a natural connection to attention mechanisms in neural networks, which are commonly used to deal with sets, yet requires less data. Our embedding is particularly suited for biological sequence classification tasks and shows promising results for natural language sequences. We provide an implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."><meta property="og:image" content="https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png">
+  <meta property="og:title" content="A Trainable Optimal Transport Embedding for Feature Aggregation | Grégoire Mialon">
+  <meta property="og:description" content="We address the problem of learning on large sets of features, motivated by the need of performing pooling operations in long biological sequences of varying sizes, with long-range dependencies, and possibly few labeled data. To address this challenging task, we introduce a parametrized embedding that aggregates the features from a given set according to the optimal transport plan between the set and a trainable reference. Our approach scales to large datasets and allows end-to-end training of the reference, while also providing a simple unsupervised learning mechanism with small computational cost. Our aggregation technique admits two useful interpretations: it may be seen as a mechanism related to attention layers in neural networks, yet that requires less data, or it may be seen as a scalable surrogate of a classical optimal transport-based kernel. We experimentally demonstrate the effectiveness of our approach on biological sequences, achieving state-of-the-art results for protein fold recognition and detection of chromatin profiles tasks, and, as a proof of concept, we show promising results for processing natural language sequences. We provide an open-source implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."><meta property="og:image" content="https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -266,7 +266,7 @@
     "@type": "WebPage",
     "@id": "https://GregoireMialon.github.io/publication/tkn/"
   },
-  "headline": "An Optimal Transport Kernel for Feature Aggregation and its Relationship to Attention",
+  "headline": "A Trainable Optimal Transport Embedding for Feature Aggregation",
   
   "datePublished": "2020-06-22T11:09:52+02:00",
   "dateModified": "2020-06-22T11:09:52+02:00",
@@ -284,7 +284,7 @@
       "url": "img/https://GregoireMialon.github.io/"
     }
   },
-  "description": "We introduce a kernel for sets of features based on an optimal transport distance, along with an explicit embedding function. Our approach addresses the problem of feature aggregation, or pooling, for sets that exhibit long-range dependencies between their members. More precisely, our embedding aggregates the features of a given set according to the transport plan between the set and a reference shared across the data set. Unlike traditional hand-crafted kernels, our embedding can be optimized for a specific task or data set. It also has a natural connection to attention mechanisms in neural networks, which are commonly used to deal with sets, yet requires less data. Our embedding is particularly suited for biological sequence classification tasks and shows promising results for natural language sequences. We provide an implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."
+  "description": "We address the problem of learning on large sets of features, motivated by the need of performing pooling operations in long biological sequences of varying sizes, with long-range dependencies, and possibly few labeled data. To address this challenging task, we introduce a parametrized embedding that aggregates the features from a given set according to the optimal transport plan between the set and a trainable reference. Our approach scales to large datasets and allows end-to-end training of the reference, while also providing a simple unsupervised learning mechanism with small computational cost. Our aggregation technique admits two useful interpretations: it may be seen as a mechanism related to attention layers in neural networks, yet that requires less data, or it may be seen as a scalable surrogate of a classical optimal transport-based kernel. We experimentally demonstrate the effectiveness of our approach on biological sequences, achieving state-of-the-art results for protein fold recognition and detection of chromatin profiles tasks, and, as a proof of concept, we show promising results for processing natural language sequences. We provide an open-source implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."
 }
 </script>
 
@@ -302,7 +302,7 @@
 
 
 
-  <title>An Optimal Transport Kernel for Feature Aggregation and its Relationship to Attention | Grégoire Mialon</title>
+  <title>A Trainable Optimal Transport Embedding for Feature Aggregation | Grégoire Mialon</title>
 
 </head>
 
@@ -593,7 +593,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>An Optimal Transport Kernel for Feature Aggregation and its Relationship to Attention</h1>
+  <h1>A Trainable Optimal Transport Embedding for Feature Aggregation</h1>
 
   
 
@@ -723,7 +723,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We introduce a kernel for sets of features based on an optimal transport distance, along with an explicit embedding function. Our approach addresses the problem of feature aggregation, or pooling, for sets that exhibit long-range dependencies between their members. More precisely, our embedding aggregates the features of a given set according to the transport plan between the set and a reference shared across the data set. Unlike traditional hand-crafted kernels, our embedding can be optimized for a specific task or data set. It also has a natural connection to attention mechanisms in neural networks, which are commonly used to deal with sets, yet requires less data. Our embedding is particularly suited for biological sequence classification tasks and shows promising results for natural language sequences. We provide an implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at <a href="https://github.com/claying/OTK">https://github.com/claying/OTK</a>.</p>
+    <p class="pub-abstract">We address the problem of learning on large sets of features, motivated by the need of performing pooling operations in long biological sequences of varying sizes, with long-range dependencies, and possibly few labeled data. To address this challenging task, we introduce a parametrized embedding that aggregates the features from a given set according to the optimal transport plan between the set and a trainable reference. Our approach scales to large datasets and allows end-to-end training of the reference, while also providing a simple unsupervised learning mechanism with small computational cost. Our aggregation technique admits two useful interpretations: it may be seen as a mechanism related to attention layers in neural networks, yet that requires less data, or it may be seen as a scalable surrogate of a classical optimal transport-based kernel. We experimentally demonstrate the effectiveness of our approach on biological sequences, achieving state-of-the-art results for protein fold recognition and detection of chromatin profiles tasks, and, as a proof of concept, we show promising results for processing natural language sequences. We provide an open-source implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at <a href="https://github.com/claying/OTK">https://github.com/claying/OTK</a>.</p>
     
 
     
@@ -784,7 +784,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://GregoireMialon.github.io/publication/tkn/&amp;text=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://GregoireMialon.github.io/publication/tkn/&amp;text=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -797,7 +797,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://GregoireMialon.github.io/publication/tkn/&amp;t=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://GregoireMialon.github.io/publication/tkn/&amp;t=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -810,7 +810,7 @@
       
       
       <li>
-        <a href="mailto:?subject=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention&amp;body=https://GregoireMialon.github.io/publication/tkn/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation&amp;body=https://GregoireMialon.github.io/publication/tkn/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -823,7 +823,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://GregoireMialon.github.io/publication/tkn/&amp;title=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://GregoireMialon.github.io/publication/tkn/&amp;title=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -836,7 +836,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention%20https://GregoireMialon.github.io/publication/tkn/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation%20https://GregoireMialon.github.io/publication/tkn/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -849,7 +849,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://GregoireMialon.github.io/publication/tkn/&amp;title=An%20Optimal%20Transport%20Kernel%20for%20Feature%20Aggregation%20and%20its%20Relationship%20to%20Attention" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://GregoireMialon.github.io/publication/tkn/&amp;title=A%20Trainable%20Optimal%20Transport%20Embedding%20for%20Feature%20Aggregation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
