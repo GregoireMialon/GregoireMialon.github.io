@@ -5,12 +5,20 @@
     <link>https://GregoireMialon.github.io/</link>
       <atom:link href="https://GregoireMialon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Grégoire Mialon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 20:06:39 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 20:28:56 +0100</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png</url>
       <title>Grégoire Mialon</title>
       <link>https://GregoireMialon.github.io/</link>
     </image>
+    
+    <item>
+      <title>How Natural Language Processing is shaping Machine Learning</title>
+      <link>https://GregoireMialon.github.io/talk/nlpmeetup/</link>
+      <pubDate>Tue, 12 Jan 2021 20:28:56 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/nlpmeetup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Trainable Optimal Transport Embedding for Feature Aggregation</title>
@@ -107,7 +115,9 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[12/12/20]&lt;/strong&gt; I will present a short version of our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/tkn/&#34;&gt;A Trainable Optimal Transport Embedding for Feature Aggregation&lt;/a&gt; at the &lt;a href=&#34;https://inductive-biases.github.io/&#34;&gt;Interpretable Inductive Biases and Physically Structured Learning Workshop&lt;/a&gt;, NeurIPS 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/02/21]&lt;/strong&gt; I will talk about &amp;ldquo;How Natural Language Processing is shaping Machine Learning&amp;rdquo; at the &lt;a href=&#34;https://nlpparis.wordpress.com/&#34;&gt;Paris NLP Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/01/21]&lt;/strong&gt; Our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/tkn/&#34;&gt;A Trainable Optimal Transport Embedding for Feature Aggregation&lt;/a&gt; was accepted to ICLR 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/12/20]&lt;/strong&gt; I presented a short version of our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/tkn/&#34;&gt;A Trainable Optimal Transport Embedding for Feature Aggregation&lt;/a&gt; at the &lt;a href=&#34;https://inductive-biases.github.io/&#34;&gt;Interpretable Inductive Biases and Physically Structured Learning Workshop&lt;/a&gt;, NeurIPS 2020.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[07/01/20]&lt;/strong&gt; Our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/screening/&#34;&gt;Screening Data Points in Empirical Risk Minimization&lt;/a&gt; was accepted to AISTATS 2020.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[17/12/19]&lt;/strong&gt; I was involved in a french study on &lt;a href=&#34;http://www.athling.com/portfolio/17-decembre-2019-rapport-athling-sur-lintelligence-artificielle-dans-le-commerce/&#34;&gt;the consequences of automation in commerce and distribution&lt;/a&gt;, commissioned by the Prospective Observatory for Trade.&lt;/p&gt;
 
