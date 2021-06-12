@@ -5,12 +5,20 @@
     <link>https://GregoireMialon.github.io/publication_types/1/</link>
       <atom:link href="https://GregoireMialon.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 11:09:52 +0200</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://GregoireMialon.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention</title>
+      <link>https://GregoireMialon.github.io/publication/tkn/</link>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/tkn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Screening Data Points in Empirical Risk Minimization via Ellipsoidal Regions and Safe Loss Functions</title>

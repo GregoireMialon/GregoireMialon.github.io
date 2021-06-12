@@ -5,12 +5,44 @@
     <link>https://GregoireMialon.github.io/authors/</link>
       <atom:link href="https://GregoireMialon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 11:43:22 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 21:28:46 +0200</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://GregoireMialon.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>D. Chen</title>
+      <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
+      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Mialon*</title>
+      <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
+      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Mairal</title>
+      <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
+      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/j.-mairal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Selosse*</title>
+      <link>https://GregoireMialon.github.io/authors/m.-selosse/</link>
+      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/m.-selosse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grégoire Mialon</title>
@@ -33,30 +65,6 @@
       <link>https://GregoireMialon.github.io/authors/a.-daspremont/</link>
       <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
       <guid>https://GregoireMialon.github.io/authors/a.-daspremont/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Chen</title>
-      <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
-      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
-      <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Mialon</title>
-      <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
-      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
-      <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Mairal</title>
-      <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
-      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
-      <guid>https://GregoireMialon.github.io/authors/j.-mairal/</guid>
       <description></description>
     </item>
     

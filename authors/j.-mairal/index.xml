@@ -5,12 +5,20 @@
     <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
       <atom:link href="https://GregoireMialon.github.io/authors/j.-mairal/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Mairal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 11:09:52 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 21:28:46 +0200</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png</url>
       <title>J. Mairal</title>
       <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
     </image>
+    
+    <item>
+      <title>GraphiT: Encoding Graph Structure in Transformers</title>
+      <link>https://GregoireMialon.github.io/publication/graphit/</link>
+      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/graphit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention</title>
