@@ -5,26 +5,66 @@
     <link>https://GregoireMialon.github.io/</link>
       <atom:link href="https://GregoireMialon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Grégoire Mialon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 21:28:46 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
     <image>
-      <url>https://GregoireMialon.github.io/images/icon_hucdee9a87a72d4d29750bceca25a69e76_46318_512x512_fill_lanczos_center_2.png</url>
+      <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
       <title>Grégoire Mialon</title>
       <link>https://GregoireMialon.github.io/</link>
     </image>
     
     <item>
-      <title>GraphiT: Encoding Graph Structure in Transformers</title>
-      <link>https://GregoireMialon.github.io/publication/graphit/</link>
-      <pubDate>Sat, 12 Jun 2021 21:28:46 +0200</pubDate>
-      <guid>https://GregoireMialon.github.io/publication/graphit/</guid>
+      <title>L&#39;oeil d&#39;Apple dans nos iPhones ?</title>
+      <link>https://GregoireMialon.github.io/post/apple/</link>
+      <pubDate>Fri, 15 Apr 2022 14:02:16 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/post/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Inductive Biases for Machine Learning in Data Constrained Settings (PhD Defense)</title>
+      <link>https://GregoireMialon.github.io/talk/phd_defense/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/phd_defense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing Transformers with Kernel Methods</title>
-      <link>https://GregoireMialon.github.io/talk/mila/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://GregoireMialon.github.io/talk/mila/</guid>
+      <link>https://GregoireMialon.github.io/talk/dm_jobtalk/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/dm_jobtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Transformers with Kernel Methods</title>
+      <link>https://GregoireMialon.github.io/talk/fair_jobtalk/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/fair_jobtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Transformers with Kernel Methods</title>
+      <link>https://GregoireMialon.github.io/talk/mila_jobtalk/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/mila_jobtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphiT: Encoding Graph Structure in Transformers</title>
+      <link>https://GregoireMialon.github.io/publication/graphit/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/graphit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphiT: Encoding Graph Structure in Transformers</title>
+      <link>https://GregoireMialon.github.io/talk/nyu_graphit/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/nyu_graphit/</guid>
       <description></description>
     </item>
     
@@ -121,8 +161,7 @@
       <link>https://GregoireMialon.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>https://GregoireMialon.github.io/terms/</guid>
-      <description>&lt;p&gt;Photo credit of avatar: Marion Germa&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -139,6 +178,8 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[21/02/22]&lt;/strong&gt; I started to work at Meta AI as a Postdoctoral Researcher.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[19/01/22]&lt;/strong&gt; I successfully defended my PhD, whose title is &amp;ldquo;On Inductive Biases for Machine Learning in Data Constrained Settings&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/02/21]&lt;/strong&gt; I talked about &amp;ldquo;How Natural Language Processing is reshaping Machine Learning&amp;rdquo; at the &lt;a href=&#34;https://nlpparis.wordpress.com/&#34;&gt;Paris NLP Meetup&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/01/21]&lt;/strong&gt; Our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/tkn/&#34;&gt;A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention&lt;/a&gt; was accepted to ICLR 2021.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/12/20]&lt;/strong&gt; I presented a short version of our paper &lt;a href=&#34;https://GregoireMialon.github.io/publication/tkn/&#34;&gt;A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention&lt;/a&gt; at the &lt;a href=&#34;https://inductive-biases.github.io/&#34;&gt;Interpretable Inductive Biases and Physically Structured Learning Workshop&lt;/a&gt;, NeurIPS 2020.&lt;/p&gt;

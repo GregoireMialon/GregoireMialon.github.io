@@ -3,68 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://GregoireMialon.github.io/publication_types/3/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://GregoireMialon.github.io/authors/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GregoireMialon.github.io/authors/d.-chen/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/authors/g.-mialon/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/publication/graphit/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/authors/j.-mairal/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/authors/m.-selosse/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/publication_types/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/publication/</loc>
-    <lastmod>2021-06-12T21:28:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/talk/mila/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/talk/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <loc>https://GregoireMialon.github.io/authors/charles-arnal/</loc>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://GregoireMialon.github.io/authors/gregoire-mialon/</loc>
-    <lastmod>2021-03-02T11:43:22+01:00</lastmod>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/</loc>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/post/apple/</loc>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/post/</loc>
+    <lastmod>2022-04-15T14:02:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/phd_defense/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/dm_jobtalk/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/fair_jobtalk/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/mila_jobtalk/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/publication_types/0/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/authors/d.-chen/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/authors/g.-mialon/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/publication/graphit/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/authors/j.-mairal/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/authors/m.-selosse/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/publication_types/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/publication/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/talk/nyu_graphit/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +109,6 @@
   
   <url>
     <loc>https://GregoireMialon.github.io/post/alex-itw/</loc>
-    <lastmod>2021-03-02T11:43:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://GregoireMialon.github.io/post/</loc>
     <lastmod>2021-03-02T11:43:22+01:00</lastmod>
   </url>
   
@@ -98,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://GregoireMialon.github.io/publication_types/1/</loc>
-    <lastmod>2020-06-22T11:09:52+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://GregoireMialon.github.io/publication/tkn/</loc>
     <lastmod>2020-06-22T11:09:52+02:00</lastmod>
   </url>
@@ -110,6 +135,11 @@
   <url>
     <loc>https://GregoireMialon.github.io/authors/a.-daspremont/</loc>
     <lastmod>2020-06-22T11:09:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://GregoireMialon.github.io/publication_types/1/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
