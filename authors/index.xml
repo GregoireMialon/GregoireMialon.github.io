@@ -5,12 +5,36 @@
     <link>https://GregoireMialon.github.io/authors/</link>
       <atom:link href="https://GregoireMialon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://GregoireMialon.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>G. Mialon*</title>
+      <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Balestriero</title>
+      <link>https://GregoireMialon.github.io/authors/r.-balestriero/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/r.-balestriero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. LeCun</title>
+      <link>https://GregoireMialon.github.io/authors/y.-lecun/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/y.-lecun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Charles Arnal</title>
@@ -29,18 +53,10 @@
     </item>
     
     <item>
-      <title>D. Chen*</title>
+      <title>D. Chen</title>
       <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Mialon*</title>
-      <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
-      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
       <description></description>
     </item>
     

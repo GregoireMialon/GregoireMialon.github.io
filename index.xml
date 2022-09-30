@@ -5,12 +5,36 @@
     <link>https://GregoireMialon.github.io/</link>
       <atom:link href="https://GregoireMialon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Grégoire Mialon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
       <title>Grégoire Mialon</title>
       <link>https://GregoireMialon.github.io/</link>
     </image>
+    
+    <item>
+      <title>Variance Covariance Regularization Enforces Pairwise Independence in Self-Supervised Representations</title>
+      <link>https://GregoireMialon.github.io/publication/vcreg/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/vcreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers in graphs: challenge and perspectives</title>
+      <link>https://GregoireMialon.github.io/talk/graphrennes/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/graphrennes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers in graphs: challenge and perspectives</title>
+      <link>https://GregoireMialon.github.io/talk/graphxia/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/talk/graphxia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>L&#39;oeil d&#39;Apple dans nos iPhones ?</title>
@@ -178,6 +202,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[07/06/22]&lt;/strong&gt; I talked about Graph Transformers at X-IA#10: State of the Graphs in Paris and at &lt;a href=&#34;https://www.lebesgue.fr/fr/SGDMal&#34;&gt;SGDMAL&lt;/a&gt; in Rennes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[21/02/22]&lt;/strong&gt; I started to work at Meta AI as a Postdoctoral Researcher.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[19/01/22]&lt;/strong&gt; I successfully defended my PhD, whose title is &amp;ldquo;On Inductive Biases for Machine Learning in Data Constrained Settings&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[04/02/21]&lt;/strong&gt; I talked about &amp;ldquo;How Natural Language Processing is reshaping Machine Learning&amp;rdquo; at the &lt;a href=&#34;https://nlpparis.wordpress.com/&#34;&gt;Paris NLP Meetup&lt;/a&gt;.&lt;/p&gt;
